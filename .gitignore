@@ -34,7 +34,7 @@
 **/buildNumber.properties
 **/.mvn/timing.properties
 **/.mvn/wrapper/maven-wrapper.jar
-
+**/.vscode/
 **/*.iml
 
 **/.idea/
@@ -50,5 +50,4 @@
 **/volumes/node
 **/vol
 **/output
-**/result
 Makefile
